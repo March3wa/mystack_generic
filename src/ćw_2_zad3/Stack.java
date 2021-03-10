@@ -1,4 +1,4 @@
-package com.company;
+package ćw_2_zad3;
 
 import java.util.EmptyStackException;
 
@@ -7,7 +7,7 @@ public interface Stack <T> {
     T pop();
     T top();
     boolean isEmpty() throws EmptyStackException;
-    boolean isFull() throws ArrayIndexOutOfBoundsException;
+    boolean isFull();
     int size();
     void clear();
 }

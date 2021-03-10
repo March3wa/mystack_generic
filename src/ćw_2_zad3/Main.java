@@ -1,4 +1,4 @@
-package com.company;
+package ćw_2_zad3;
 
 public class Main {
 
